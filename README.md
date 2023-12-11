@@ -1,4 +1,3 @@
-
 Pathrise Data Challenge Project
 Introduction
 This project is part of a data challenge assignment for Pathrise, an online program that empowers job seekers in the tech industry through mentorship, training, and guidance. The dataset provided contains information collected from fellows who participated in the program. The main objective is to derive insights into the likelihood of a fellow being placed at a company and estimate the time until placement.
